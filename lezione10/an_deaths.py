@@ -1,8 +1,10 @@
+# Calcolo Statistiche varie
+
 import json
 import matplotlib.pyplot as plt
 
 # Load data
-with open('lezione10/deadge.json', 'r') as f:
+with open('deadge.json', 'r') as f:
     data = json.load(f)
 
 
