@@ -1,7 +1,8 @@
 # Wikipedia Extraction
 ## Parsing Wikipedia
 
-Costruire un database (in formato json) di tutte le morti illustri dal 1992 al 2021. Salvare il file in `deadge.json`. 
+Costruire un database (in formato json) di tutte le morti illustri dal 1992 al 2021.\n
+Salvare il file in `deadge.json`. \n
 Il database contiene: 
 
 - Data di morte
